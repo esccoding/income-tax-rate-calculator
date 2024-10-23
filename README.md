@@ -19,4 +19,5 @@ If the user enters 'yes', the program loops back to the beginning and re-prompts
 ## How to Run
 To run this program, simply download the ```incomeTaxRateCalculator.jar``` file under "Releases" and open the Command Prompt.
 
-Once in the Command Prompt, type ```java -jar incomeTaxRateCalculator.jar``` to execute the program.
+Once in the Command Prompt, type ```java -jar \path\to\incomeTaxRateCalculator.jar``` to execute the program.
+
