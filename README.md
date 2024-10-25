@@ -8,7 +8,7 @@ Simple Java program for calculating a user's tax rate given their average weekly
 ## General Info
 This program was built for a critical thinking assignment in my **CSC320 - Programming I** course at Colorado State University Global.
 
-In this program, a user enters their average weekly gross income and the program compares the input to several different thresholds to determine the appropriate tax rate to apply to the user's income. Once the correct tax rate has been identified, the program runs a few simple calculations to determine the amount of tax withholding to be subtracted from the user's gross income and what their final take-home weekly income will is after tax withholding is deducted.
+In this program, a user enters their average weekly gross income and the program compares the input to several different thresholds to determine the appropriate tax rate to apply to the user's income. Once the correct tax rate has been identified, the program runs a few simple calculations to determine the amount of tax withholding to be subtracted from the user's gross income and what their final take-home weekly income will be after tax withholding is deducted.
 
 The results of these calculations are then compiled into a short report that is printed to the console for the user to view. Users are then confronted with a prompt asking if they would like to generate another report. 
 
